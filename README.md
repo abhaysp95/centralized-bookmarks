@@ -5,7 +5,7 @@ As a person, who hops from browser to browser and don't want to have account for
 Following project, helps us in creating/updating the centralized bookmark file(location: `~/.config/bookmarks.json`).
 
 
-You can get video of demo [here](https://github.com/coolabhays)
+You can get video of demo [here](https://github.com/coolabhays/centralized-bookmarks/blob/main/extras/demo.mp4)
 
 <hr>
 
