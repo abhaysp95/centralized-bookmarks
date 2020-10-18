@@ -1,6 +1,6 @@
 # Centralized Bookmarks
 
-As a person, who hops from browser to browser and don't want to have account for every browser to sync consisting of browser at one place is a blessing.
+As a person, who hops from browser to browser and don't want to have account for every browser to sync bookmarks, consiting of bookmark for every browser at one place would be a blessing.
 
 Following project, helps us in creating/updating the centralized bookmark file(location: `~/.config/bookmarks.json`).
 
